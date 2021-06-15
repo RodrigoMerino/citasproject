@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\citasProject\App\Views/doctor/Prescriptions.blade.php ENDPATH**/ ?>

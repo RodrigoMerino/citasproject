@@ -1,0 +1,27 @@
+{
+    "name": "demo/citas",
+    "autoload": {
+        "classmap": [
+          
+            "app/Helpers/helpers.php",
+            "core/SessionHandler.php"
+                  
+
+        ],
+        "psr-4": {
+             "Core\\": "core/",
+             "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RODRIGO MERINO",
+            "email": "joserodrigo48.jr@gmail.com"
+        }
+    ],
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "altorouter/altorouter": "^2.0"
+
+    }
+}

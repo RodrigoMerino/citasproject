@@ -1,0 +1,7 @@
+#packahges
+/vendor/
+node_modules/
+logs/
+
+#keys
+
